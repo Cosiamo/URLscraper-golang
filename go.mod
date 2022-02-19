@@ -1,4 +1,4 @@
-module github.com/Cosiamo/webscraper-golang
+module github.com/Cosiamo/URLscraper-golang
 
 go 1.17
 
